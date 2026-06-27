@@ -24,7 +24,7 @@ except:
 # ---------------- INITIALIZE SESSION STATE ----------------
 if 'model' not in st.session_state:
     st.session_state.model = None
-if 'scaler' not in st.session_state:vemb
+if 'scaler' not in st.session_state:
     st.session_state.scaler = None
 if 'label_encoder' not in st.session_state:
     st.session_state.label_encoder = None
