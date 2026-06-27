@@ -1,0 +1,99 @@
+age,systolic_bp,diastolic_bp,has_diabetes,has_hypertension,has_heart_disease,has_cancer,has_kidney_disease,symptom_count,bmi,previous_surgery,eligibility
+45,120,80,0,0,0,0,0,2,24.5,0,Eligible
+68,145,90,1,1,0,0,0,3,28.3,1,Needs Further Evaluation
+72,165,95,1,1,1,0,0,5,32.1,0,Not Eligible
+35,115,75,0,0,0,0,0,1,22.4,0,Eligible
+58,138,88,1,0,0,0,0,2,26.8,0,Needs Further Evaluation
+71,172,98,1,1,1,0,1,6,34.2,1,Not Eligible
+42,122,82,0,1,0,0,0,2,25.1,0,Eligible
+65,150,92,1,1,0,0,0,4,29.5,1,Needs Further Evaluation
+78,185,105,1,1,1,1,1,8,36.7,1,Not Eligible
+28,110,70,0,0,0,0,0,0,21.3,0,Eligible
+62,142,88,1,0,0,0,0,3,27.4,0,Needs Further Evaluation
+75,168,96,1,1,1,0,1,5,33.8,1,Not Eligible
+38,118,78,0,0,0,0,0,1,23.2,0,Eligible
+55,135,85,0,1,0,0,0,2,26.1,0,Needs Further Evaluation
+70,158,94,1,1,0,0,0,4,30.5,1,Not Eligible
+32,112,72,0,0,0,0,0,1,22.8,0,Eligible
+48,128,84,0,0,0,0,0,2,24.9,0,Eligible
+63,148,90,1,1,0,0,0,3,28.7,0,Needs Further Evaluation
+77,175,100,1,1,1,0,1,7,35.4,1,Not Eligible
+41,120,80,0,0,0,0,0,1,23.5,0,Eligible
+66,152,93,1,1,0,0,0,4,29.8,1,Needs Further Evaluation
+73,169,97,1,1,1,0,0,5,33.2,1,Not Eligible
+29,114,74,0,0,0,0,0,0,21.8,0,Eligible
+52,132,86,0,1,0,0,0,2,25.7,0,Needs Further Evaluation
+69,155,91,1,1,0,0,0,3,30.1,0,Needs Further Evaluation
+44,124,82,0,0,0,0,0,2,24.3,0,Eligible
+61,140,89,0,0,0,0,0,2,26.5,0,Eligible
+74,171,99,1,1,1,0,1,6,34.5,1,Not Eligible
+33,116,76,0,0,0,0,0,1,22.1,0,Eligible
+59,142,87,1,0,0,0,0,3,27.2,0,Needs Further Evaluation
+67,154,92,1,1,0,0,0,4,29.2,1,Needs Further Evaluation
+76,179,102,1,1,1,0,1,7,36.1,1,Not Eligible
+36,118,78,0,0,0,0,0,1,22.9,0,Eligible
+49,129,85,0,0,0,0,0,2,25.3,0,Eligible
+64,146,89,1,1,0,0,0,3,28.1,0,Needs Further Evaluation
+71,162,94,1,1,1,0,0,5,31.8,1,Not Eligible
+31,113,73,0,0,0,0,0,1,22.3,0,Eligible
+53,134,86,0,1,0,0,0,2,26.2,0,Needs Further Evaluation
+70,158,93,1,1,0,0,0,4,30.2,1,Needs Further Evaluation
+46,125,83,0,0,0,0,0,1,24.1,0,Eligible
+60,139,88,0,1,0,0,0,2,26.9,0,Needs Further Evaluation
+79,188,108,1,1,1,1,1,9,38.2,1,Not Eligible
+34,115,75,0,0,0,0,0,1,22.6,0,Eligible
+56,136,87,1,0,0,0,0,2,27.3,0,Needs Further Evaluation
+68,151,91,1,1,0,0,0,3,28.9,1,Needs Further Evaluation
+73,166,95,1,1,1,0,0,5,32.5,1,Not Eligible
+39,119,79,0,0,0,0,0,1,23.1,0,Eligible
+50,130,86,0,0,0,0,0,2,25.5,0,Eligible
+62,143,88,1,0,0,0,0,3,27.8,0,Needs Further Evaluation
+77,174,100,1,1,1,0,1,7,35.2,1,Not Eligible
+43,123,81,0,0,0,0,0,2,24.4,0,Eligible
+57,137,87,0,1,0,0,0,2,26.3,0,Needs Further Evaluation
+69,153,92,1,1,0,0,0,4,29.4,1,Needs Further Evaluation
+74,170,98,1,1,1,0,0,6,33.9,1,Not Eligible
+37,117,77,0,0,0,0,0,1,22.7,0,Eligible
+51,131,86,0,0,0,0,0,2,25.8,0,Eligible
+65,149,90,1,1,0,0,0,3,28.5,0,Needs Further Evaluation
+72,163,95,1,1,1,0,1,5,32.2,1,Not Eligible
+30,112,72,0,0,0,0,0,0,21.9,0,Eligible
+54,135,87,0,0,0,0,0,2,26.4,0,Eligible
+67,150,91,1,1,0,0,0,3,29.1,1,Needs Further Evaluation
+75,172,99,1,1,1,0,1,6,34.8,1,Not Eligible
+40,121,80,0,0,0,0,0,1,23.4,0,Eligible
+47,126,84,0,0,0,0,0,2,24.8,0,Eligible
+63,144,89,1,0,0,0,0,3,27.6,0,Needs Further Evaluation
+71,160,93,1,1,0,0,0,4,31.2,1,Not Eligible
+33,114,74,0,0,0,0,0,1,22.2,0,Eligible
+55,136,86,0,1,0,0,0,2,26.7,0,Needs Further Evaluation
+68,152,92,1,1,0,0,0,4,29.7,1,Needs Further Evaluation
+76,178,101,1,1,1,0,1,7,36.3,1,Not Eligible
+35,116,76,0,0,0,0,0,1,22.5,0,Eligible
+49,128,85,0,0,0,0,0,2,25.4,0,Eligible
+61,141,88,1,0,0,0,0,2,27.1,0,Needs Further Evaluation
+70,157,93,1,1,0,0,0,4,30.3,1,Needs Further Evaluation
+73,167,96,1,1,1,0,0,5,33.1,1,Not Eligible
+38,119,79,0,0,0,0,0,1,23.3,0,Eligible
+52,133,86,0,0,0,0,0,2,25.9,0,Eligible
+64,147,90,1,1,0,0,0,3,28.4,0,Needs Further Evaluation
+78,183,104,1,1,1,1,1,8,37.5,1,Not Eligible
+32,113,73,0,0,0,0,0,1,22.0,0,Eligible
+45,124,82,0,0,0,0,0,1,24.2,0,Eligible
+59,139,88,0,1,0,0,0,2,26.6,0,Needs Further Evaluation
+66,151,91,1,1,0,0,0,3,29.3,1,Needs Further Evaluation
+72,164,95,1,1,1,0,0,5,32.4,1,Not Eligible
+41,122,81,0,0,0,0,0,1,23.7,0,Eligible
+53,134,87,0,0,0,0,0,2,26.0,0,Eligible
+62,142,89,1,0,0,0,0,3,27.5,0,Needs Further Evaluation
+69,154,92,1,1,0,0,0,4,29.9,1,Needs Further Evaluation
+74,171,98,1,1,1,0,1,6,34.1,1,Not Eligible
+36,117,77,0,0,0,0,0,1,22.8,0,Eligible
+48,127,84,0,0,0,0,0,2,25.0,0,Eligible
+60,140,88,1,0,0,0,0,2,27.0,0,Needs Further Evaluation
+67,152,91,1,1,0,0,0,3,29.6,1,Needs Further Evaluation
+75,176,100,1,1,1,0,1,7,35.9,1,Not Eligible
+34,115,75,0,0,0,0,0,1,22.4,0,Eligible
+50,129,85,0,0,0,0,0,2,25.6,0,Eligible
+63,145,89,1,1,0,0,0,3,28.2,0,Needs Further Evaluation
+71,161,94,1,1,0,0,0,5,31.5,1,Not Eligible
